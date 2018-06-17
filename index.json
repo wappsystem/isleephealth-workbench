@@ -1,0 +1,8 @@
+{
+    "modules":
+	{
+        "workbench":            {                      "url":"modules/workbench.html"},
+        "physician-data":       {"table_id":"20011472","url":"https://codepen.io/vmiis/pen/bKYVLw.html"},
+        "appointment-type-data":{"table_id":"20011473","url":"https://codepen.io/vmiis/pen/XYzmyP.html"}
+	}
+}
